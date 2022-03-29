@@ -1,0 +1,34 @@
+{
+	"name": "HECO TEST TOKEN",
+	"timestamp": "2022-03-18T19:49:26.225Z",
+	"version": {
+		"major": 3,
+		"minor": 1,
+		"patch": 0
+	},
+	"tags": {},
+	"logoURI": "https://testnet.hecoinfo.com/images/svg/brands/huobi-light.svg?v=1.3",
+	"keywords": ["heco", "default"],
+	"tokens": [{
+		"chainId": 256,
+		"address": "0xbebe9a7bae6467f29a7fe1be4000a6af0217f99b",
+		"name": "Binance Coin_BSC",
+		"symbol": "BNB",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
+	}, {
+		"chainId": 256,
+		"address": "0xa980e04ba663bd9569843af0520e50648fb921df",
+		"name": "TRON",
+		"symbol": "TRX",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/1094/small/tron-logo.png?1547035066"
+	}, {
+		"name": "Tether USD",
+		"address": "0x8781f0fe84cc9aa55f3e0f622001f816cca61cc9",
+		"symbol": "USDT",
+		"decimals": 18,
+		"chainId": 256,
+		"logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+	}]
+}
