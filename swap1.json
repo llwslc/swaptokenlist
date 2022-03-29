@@ -1,0 +1,34 @@
+{
+	"name": "BTTC TEST TOKEN",
+	"timestamp": "2022-03-18T19:49:26.225Z",
+	"version": {
+		"major": 3,
+		"minor": 1,
+		"patch": 0
+	},
+	"tags": {},
+	"logoURI": "https://testscan.bt.io/static/media/BTT.e13a6c4e.svg",
+	"keywords": ["bttc", "default"],
+	"tokens": [{
+		"chainId": 1029,
+		"address": "0x61a17734e6b497cba51f16ae23bcf85aeb6984cb",
+		"name": "Binance Coin_BSC",
+		"symbol": "BNB",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
+	}, {
+		"chainId": 1029,
+		"address": "0x8e009872b8a6d469939139be5e3bbd99a731212f",
+		"name": "TRON",
+		"symbol": "TRX",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/1094/small/tron-logo.png?1547035066"
+	}, {
+		"name": "Tether USD",
+		"address": "0x7b906030735435422675e0679bc02dae7dfc71da",
+		"symbol": "USDT",
+		"decimals": 18,
+		"chainId": 1029,
+		"logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+	}]
+}
