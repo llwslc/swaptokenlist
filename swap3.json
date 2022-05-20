@@ -1,0 +1,34 @@
+{
+	"name": "CUBE TEST TOKEN",
+	"timestamp": "2022-03-18T19:49:26.225Z",
+	"version": {
+		"major": 3,
+		"minor": 1,
+		"patch": 0
+	},
+	"tags": {},
+	"logoURI": "https://www.cube.network/favicon.png",
+	"keywords": ["cube", "default"],
+	"tokens": [{
+		"chainId": 1819,
+		"address": "0xdf443238D7B80446c3b3E76A556a354670dA0205",
+		"name": "Dai Stablecoin (DAI)",
+		"symbol": "DAI",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
+	}, {
+		"chainId": 1819,
+		"address": "0x8f17119eba3251f54870d432a377241Ab99319C3",
+		"name": "TRON",
+		"symbol": "TRX",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/1094/small/tron-logo.png?1547035066"
+	}, {
+		"chainId": 1819,
+		"name": "Tether USD",
+		"address": "0x9bD522cC85BD1bD6d069D5E273e46cCfEE905493",
+		"symbol": "USDT",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+	}]
+}
