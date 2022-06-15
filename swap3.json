@@ -7,7 +7,7 @@
 		"patch": 0
 	},
 	"tags": {},
-	"logoURI": "https://www.cube.network/favicon.png",
+	"logoURI": "https://raw.githubusercontent.com/llwslc/swaptokenlist/main/cube.png",
 	"keywords": ["cube", "default"],
 	"tokens": [{
 		"chainId": 1819,
